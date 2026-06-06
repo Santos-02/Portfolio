@@ -217,9 +217,10 @@ export const DATA = {
         title: "To-do List API",
         description:
           "The To-Do List API is a task management solution developed with Java 17 and Spring Boot 3.0.11.",
-        image: "/",
+        image: "/API schema.jpeg",
         gallery: [
-          "/",
+          "/API schema.jpeg",
+          "/Database schema.jpeg",
         ],
         category: "Backend Development",
         details:
